@@ -3,5 +3,6 @@ pink
 organe
 blue
 green
+yellow
 red
 these are the colors of the poem
