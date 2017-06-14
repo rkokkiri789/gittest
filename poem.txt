@@ -2,5 +2,6 @@ the Rainbow
 pink
 organe
 blue
+green
 red
 these are the colors of the poem
