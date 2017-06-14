@@ -3,6 +3,7 @@ pink
 organe
 blue
 green
+indigo
 yellow
 red
 these are the colors of the poem and unicorn
